@@ -63,5 +63,7 @@ $defaultBaseCurrency = "myr";
             </div>
         </form>
     </div>
+    <script src="jquery-3.7.1.min.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
